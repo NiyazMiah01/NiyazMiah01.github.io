@@ -4,7 +4,7 @@ This is my home page! My name is Mohammad Miah and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is [NiyazMiah01] (http://github.com/NiyazMiah01).
+My GitHub page is [NiyazMiah01](http://github.com/NiyazMiah01).
 
 ### CPSC 120
 
